@@ -1,0 +1,23 @@
+.heading{
+    padding:  1em 0 1em 0;
+    font-size:4em;
+    font-style:oblique;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(158, 143, 116);
+    margin-left: 40px;
+    margin-right: 40px;
+  
+}
+.heading h1{
+    font-size: 28px;
+}
+.section-content{
+    padding:  1em 0 1em 0;
+ background-color: rgb(178, 161, 130);
+
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}

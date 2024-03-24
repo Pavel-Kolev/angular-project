@@ -1,0 +1,21 @@
+
+.header{
+ background-color: wheat;
+ padding: 15px;
+ box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.header ul{
+    display: flex;
+justify-content: center;
+flex-direction: row;
+    list-style: none;
+    gap: 1em;
+     
+}
+.header ul li{
+    border: 1px solid;
+    border-radius: 5px;
+    color: black;
+    border-color: wheat;
+    margin-right: 0.5em;
+}
