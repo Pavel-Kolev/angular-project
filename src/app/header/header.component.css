@@ -1,8 +1,11 @@
 
 .header{
- background-color: wheat;
+ background-color: #40375c;
  padding: 15px;
  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+ margin-left: 40px;
+    margin-right: 40px;
+    border: 0.5px solid rgb(129, 129, 129);
 }
 .header ul{
     display: flex;
@@ -13,9 +16,15 @@ flex-direction: row;
      
 }
 .header ul li{
-    border: 1px solid;
+    
     border-radius: 5px;
-    color: black;
-    border-color: wheat;
+    color: white;
+     
     margin-right: 0.5em;
+}
+.header ul li :hover{
+     
+    color: black;
+     background-color: rebeccapurple;
+   
 }

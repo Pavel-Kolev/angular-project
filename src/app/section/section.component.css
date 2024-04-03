@@ -4,17 +4,17 @@
     font-style:oblique;
     display: flex;
     justify-content: center;
-    background-color: rgb(158, 143, 116);
+    background-color:#40375c;
     margin-left: 40px;
     margin-right: 40px;
-  
+    border: 0.5px solid rgb(129, 129, 129);
 }
 .heading h1{
     font-size: 28px;
 }
 .section-content{
     padding:  1em 0 1em 0;
- background-color: rgb(178, 161, 130);
+ background-color: #5a4f7c;
 
     display: flex;
     justify-content: center;
